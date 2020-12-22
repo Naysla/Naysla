@@ -9,6 +9,6 @@ I'm a backend developer with a high learning capacity. My curiosity and analysis
 - ⚡ I'm always attentive to reviews and good advice.
 - 👾 Hobby: love to learn something new, learn new languajes and play volleyball.
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jNaysla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naysla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 
